@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end & Back-End developer
+- A passionate Self-taught Front-end & Back-End developer(Sort of Junior)
 - Gamer For Life
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
