@@ -17,8 +17,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- A passionate Self-taught Front-end & Back-End developer
+- Gamer For Life
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 
@@ -122,7 +122,3 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
