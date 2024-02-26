@@ -82,8 +82,8 @@
 <li>
 
  ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](kevinjvelasquezpaz@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/kevinbazilon/)
+📫 [![Gmail Badge](https://img.shields.io/badge/-kevinjvelasquezpaz@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kevinjvelasquezpaz@gmail.com)](kevinjvelasquezpaz@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-kevinbazilon-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/kevinbazilon/)](https://www.instagram.com/kevinbazilon/)
 
 </a>
 </li>
